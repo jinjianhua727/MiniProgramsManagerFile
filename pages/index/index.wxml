@@ -1,0 +1,9 @@
+<button bindtap='onSaveTap'>保存文件到本地</button>
+<button bindtap='onGetTap'>获取本地文件</button>
+<button bindtap='onRemoveTap'>删除本地文件</button>
+<button bindtap='onGetListTap'>获取文件列表</button>
+<view class='result'>
+  <text>result:{{result}}</text>
+</view>
+
+
